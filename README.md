@@ -1,9 +1,4 @@
 
-![Version](https://img.shields.io/badge/iOS-17.0%2B-blueviolet)
-
-
-[<img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/aa7777ac-5a5a-421f-b028-95f7f76d6f2d">](https://apps.apple.com/us/app/artiweather/id6446815662)
-
 # ArtiWeather
 
 ### [](https://github.com/swiftlysingh/artiweather) An Art Weather App
@@ -14,11 +9,14 @@ With cutting-edge stable diffusion models, ArtiWeather generates breathtakingly 
 
 But ArtiWeather is not just all about looks. It also provides detailed and accurate weather data, including temperature, humidity, wind speed, and precipitation levels, so you can plan your day accordingly. 
 
+
+[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">](https://apps.apple.com/us/app/artiweather/id6446815662)
+
 ## 📸 Screenshots
 
 <span>
   <img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/3423e7c7-e7eb-4e15-99da-97547e29928d" width="17%"/>
- <img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/b20fe6ae-5cb7-41c0-89b7-8b76ce5c7bcc" width="17%"/> 
+   <img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/b20fe6ae-5cb7-41c0-89b7-8b76ce5c7bcc" width="17%"/> 
    <img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/e5377ca5-00fe-4960-a783-62d5c362be15" width="17%"/> 
    <img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/9c65a1de-6b46-4ccd-83ee-c0622a3f7f88" width="17%"/>
   <img src="https://github.com/swiftlysingh/ArtiWeather/assets/47032662/cf3857af-8b14-4dd9-ad5d-7e6fe6f1d6c2" width="17%"/> 
